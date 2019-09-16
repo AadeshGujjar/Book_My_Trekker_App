@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">624158540157-2ua769qvar8g0odt09p58ae2dh8904c9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://busbookingapp-32ebb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">624158540157</string>
+    <string name="google_api_key" translatable="false">AIzaSyBMs8ieWwGQ9EmPdlyH4e6UXyitCt_1cS0</string>
+    <string name="google_app_id" translatable="false">1:624158540157:android:88438f3e66d86a87ba8c14</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBMs8ieWwGQ9EmPdlyH4e6UXyitCt_1cS0</string>
+    <string name="google_storage_bucket" translatable="false">busbookingapp-32ebb.appspot.com</string>
+    <string name="project_id" translatable="false">busbookingapp-32ebb</string>
+</resources>
